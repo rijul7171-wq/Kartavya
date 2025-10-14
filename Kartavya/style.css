@@ -1,14 +1,20 @@
 h1 {
-            font-family: 'Protest Revolution';
-            text-align: center;
-            color: red;
-        }
+    font-family: 'Protest Revolution';
+    text-align: center;
+    color: rgb(184, 8, 8);
+    font-size: 50px;
+}
 
-        h2 {
-            font-family: 'Almendra SC';
-            text-align: center;
-        }
+h2 {
+    font-family: 'Almendra SC';
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
 
-        body {
-            font-family: Arial;
-        }
+body {
+    font-family: Arial;
+}
+.question-text {
+    font-size: 30px;
+}
